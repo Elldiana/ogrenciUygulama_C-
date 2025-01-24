@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\bin\Debug\net8.0\ogrenciUygulaması.exe
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\bin\Debug\net8.0\ogrenciUygulaması.deps.json
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\bin\Debug\net8.0\ogrenciUygulaması.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\bin\Debug\net8.0\ogrenciUygulaması.dll
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\bin\Debug\net8.0\ogrenciUygulaması.pdb
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ogrenciUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ogrenciUygulaması.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ogrenciUygulaması.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ogrenciUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ogrenciUygulaması.dll
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\refint\ogrenciUygulaması.dll
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ogrenciUygulaması.pdb
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ogrenciUygulaması.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C#\ogrenciUygulaması\obj\Debug\net8.0\ref\ogrenciUygulaması.dll
